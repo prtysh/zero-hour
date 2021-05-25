@@ -44,3 +44,9 @@
     building contemporary spaces where they may all exist in unison.
   </p>
 </main>
+
+<style>
+  p{
+    background-color: red;
+  }
+</style>
