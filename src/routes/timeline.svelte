@@ -1,0 +1,172 @@
+<script>
+</script>
+
+<div>
+  <p>TIMELINE PAGE</p>
+  <p>About the Residency &amp; Journals:</p>
+  <p><br />Adele &amp; Alicia Journals:</p>
+  <p>
+    https://drive.google.com/drive/folders/1GzsG-IgESi5swBSBOjfPMHNO4Vqhb9AE?usp=sharing
+  </p>
+  <p>Wendy &amp; Jane Journals:</p>
+  <p>
+    https://drive.google.com/drive/folders/1b1r9vjvWdMQeINax-oe8Gcg8Ts7aJncu?usp=sharing
+  </p>
+  <p>Colin &amp; Sinead Journals:</p>
+  <p>
+    https://drive.google.com/drive/folders/17nZJpWXL-s1grXGEBWC1GwZzI_Cyj8zc?usp=sharing
+  </p>
+  <p>Soyam &amp; Helena Journals:</p>
+  <p>
+    https://drive.google.com/drive/folders/1UVmg3M6_piol2fj8mreiBefj2zV2y44E?usp=sharing
+  </p>
+  <p>Merrex, Jojin &amp; Tal Journals:</p>
+  <p>
+    https://drive.google.com/drive/folders/1ZdHkplsSvay7rYYQ-OVkA-95UXXXqikA?usp=sharing
+  </p>
+  <p>Mentors:</p>
+  <p>Kirtana Kumar</p>
+  <p>
+    Kumar is an Indian actor, director, dramaturg and filmmaker with 35 years of
+    stage experience. Kumar has trained and performed with The Asian-American
+    Theatre Project at The Los Angeles Theatre Centre (LATC) and has a Master's
+    Degree in European Classics and American Literature. She received the
+    MacArthur Fellowship For Population Innovations and New Performance Grant
+    from India Foundation for the Arts. Kumar's areas of research interest
+    include; theatre in the social sector, feminism, gender and the body.
+  </p>
+  <p>Links:<br />Website, Facebook, Instagram</p>
+  <p><br />Rachel Davies</p>
+  <p>
+    Davies is an award-winning filmmaker with 25 years of experience. Her work,
+    authored and<br />collaborative, spans creative documentary and immersive
+    interactive environments, artist&rsquo;s film,<br />theatre/dance
+    collaborations, and TV promo. With a background in Fine Art and MTV, her
+    films<br />are in international collections and have been screened and
+    broadcast in festivals and on television around the world. She is the
+    co-founder of the interdisciplinary practice R&amp;D Studios which makes
+    films, interventions and theatre which are humanistic, collaborative,
+    creatively and technically innovative.
+  </p>
+  <p>Links:<br />Website</p>
+  <p><br />Daniel Saul</p>
+  <p>
+    Daniel Saul is a filmmaker whose work is rooted in painting, animation and
+    participatory art. Daniel has worked as an animator, documentary filmmaker,
+    exhibition curator, theatre-maker and creator of large-scale community arts
+    projects. He has also been engaged extensively as an editor, compositor and
+    animator in both the creative and commercial sectors. He is currently
+    employed by both the University of the Arts London and the Royal College of
+    Art as an animation lecturer.
+  </p>
+  <p>Links:<br />Website</p>
+  <p><br />Balbir Singh</p>
+  <p>
+    Balbir Singh is the founder and artistic director of Balbir Singh Dance
+    Company. This interdisciplinary company specialises in blending contemporary
+    western dance and classical Indian Kathak. Based in Leeds, Balbir regularly
+    works with the best artists and musicians and presents work to diverse
+    audiences in the UK and internationally.
+  </p>
+  <p>Hetain Patel</p>
+  <p>
+    Hetain Patel is an artist based in London. He makes photographs, videos,
+    sculptures and live performances, usually for galleries and theatres. Some
+    of his works are in public and private collections in the U.K, China, India
+    and U.S.A. In recent years, Patel has done Bruce Lee impersonations on stage
+    at the Royal Opera House, completed commissions for Tate Modern and
+    Southbank Centre, London, made a working class Transformer robot from an old
+    Ford Fiesta, designed part of a mini golf course for the Venice Biennale,
+    toured his live performance, TEN, internationally (in English and French),
+    made his first dance company work for Candoco, and was invited to do a TED
+    talk which has since had over two million hits.
+  </p>
+  <p><br />Catherine Hyde &amp; Kate Moree</p>
+  <p>
+    Catherine Hyde &amp; Kate Moree are the co-founders of Seagulls Resue.
+    Seagulls is a social enterprise based in Leeds, specialising in paint reuse,
+    community arts, and working towards supporting vulnerable people.
+  </p>
+  <p>David Gilbert</p>
+  <p>
+    David Gilbert is a curator and creative producer based in Derbyshire. He is
+    currently working as a Strategic Programme Producer at ArtCore and also an
+    Associate Lecturer at Leeds Arts University teaching on the MA Curation
+    Practices.
+  </p>
+  <p>Leon Varga</p>
+  <p>
+    Leon Varga, born and raised in Budapest; Hungary, has over 20 years of
+    experience in small linocuts. Based in Leeds he is currently developing
+    Seagulls Lifehouse, which is a new venture for Seagulls Paint and boasts a
+    newly built and equipped workshop space dedicated to Arts and Crafts. He is
+    interested in the analysis of the resonances generated by the technique
+    itself, particularly in the field of visual culture, and the production of
+    images and from the perspective of cultural studies (gender, race, class,
+    language, etc.). In this sense, he believes that &lsquo;hybrid
+    technologies&rsquo; open the way to an approach toward &lsquo;public
+    space&rsquo; as a &lsquo;new agora&rsquo; in which global and multicultural
+    issues affecting our society could be discussed.
+  </p>
+  <p>Links:<br />Instagram</p>
+  <p><br />Arpita Shah</p>
+  <p>
+    Arpita Shah is a photographic artist based in Edinburgh, Scotland. She works
+    between photography and film, exploring the fields where culture and
+    identity meet. As an India-born artist, Shah spent an earlier part of her
+    life living between India, Ireland and the Middle East before settling in
+    the UK. This migratory experience is reflected in her practice, which often
+    focuses on the notion of home, belonging and shifting cultural identities.
+  </p>
+  <p>Links:<br />Website, Instagram, Twitter</p>
+  <p>Holly Prest</p>
+  <p>
+    Holly Prest is an outstanding percussionist, director and educator. With
+    over 20 years of experience behind her, Prest&rsquo;s dedication to the
+    music, rhythms and cultures from around the world has led her to translate
+    all of this knowledge into her passion for performing and teaching. Since
+    2004, she has completed multiple study trips focusing on cross-arts Carnival
+    forms in Brazil, Cuba, Trinidad &amp; Tobago, and The Gambia. Prest is the
+    Director of percussion and dance collective Juba do Le&atilde;o, Director of
+    youth music and dance outfit Jubacana, and Artistic Director of Global
+    Grooves, an inspirational Carnival arts charity. As recent percussionist
+    with trio Skutch Manos, she performed around the UK sharing her energetic
+    and unique style of multi-percussion playing.
+  </p>
+  <p>Links:<br />Website</p>
+  <p>Shabari Rao</p>
+  <p>
+    Shabari Rao is an independent artist, educator and researcher based in
+    Bangalore, India. Her work is rooted in practice-based research which
+    focuses on the relationship between body, performance, and learning. Her
+    interest is primarily in the body as a site of knowing and knowledge
+    production. She draws on both performance and pedagogic tools in her
+    practice and creates work that is collaborative, devised and emergent. Her
+    work takes the shape of performing, directing, teaching, writing, and more
+    recently, experimental film. Over the last 20 years, her work has been
+    presented internationally through conferences, festivals, residencies and
+    publications.
+  </p>
+  <p>Links:<br />Website</p>
+  <p>Michael Joseph</p>
+  <p>
+    Filmmaker and pedagogue, Michael Joseph is currently teaching at the Srishti
+    Manipal Institute of Art, Design, and Technology in Bangalore. He also
+    worked extensively in the field of medical education with special emphasis
+    on the psychosocial aspects of Hansen&rsquo;s Disease. It was here that he
+    began his experiments with using small format video in a participatory
+    approach with health workers and school children. He is currently working on
+    a feature-length documentary on Indian Jazz musicians tentatively titled
+    &ldquo;Blue N Boogie&rdquo; on the themes of identity, belonging and home.
+  </p>
+  <p>Mentor Talks:</p>
+  <p>
+    https://drive.google.com/drive/folders/1Nd0WF2BwhLJhWJhdCr_7hDbcsOJ9kCsT?usp=sharing
+  </p>
+</div>
+
+<style>
+  p {
+    background-color: red;
+  }
+</style>
